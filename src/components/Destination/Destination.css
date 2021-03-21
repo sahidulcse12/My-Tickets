@@ -1,0 +1,41 @@
+.design-form{
+    text-align: center;
+}
+
+.search-form{
+    background-color: orangered;
+    height: 200px;
+    width:100%;
+    padding: 0 10px;
+    border-radius:10px 10px 0 0;
+    color:white;
+}
+
+.button-style{
+    width:100%;
+    background-color:orangered;
+    padding: 10px 0;
+    color:white;
+    font-size:20px;
+    border : 1px solid white;
+}
+
+.picture img{
+    height:200px;
+    width: 200px;
+}
+
+.search-pic{
+    border: 3px solid gray;
+    padding: 10px;
+}
+
+.search-pic img{
+    margin-right: 30px;
+}
+
+.search-pic h1 {
+    text-align: center !important;
+    margin-left: 40px;
+    margin-top: 17px;
+}

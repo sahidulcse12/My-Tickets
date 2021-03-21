@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Bus",
+        "pickFrom": "Mirpur",
+        "pickTo": "Dhanmondi",
+        "image": "https://i.ibb.co/z6jbzcX/bus.jpg",
+        "ticketType": "Bus"
+    },
+    {
+        "id": 2,
+        "name": "Car",
+        "pickFrom": "Uttara",
+        "pickTo": "Motijil",
+        "image": "https://i.ibb.co/y53mbPj/car.jpg",
+        "ticketType": "Car"
+    },
+    {
+        "id": 3,
+        "name": "Bike",
+        "pickFrom": "Jatrabari",
+        "pickTo": "Gulshan",
+        "image": "https://i.ibb.co/RPPqZ7r/hero.jpg",
+        "ticketType": "Bike"
+    },
+    {
+        "id": 4,
+        "name": "Train",
+        "pickFrom": "Badda",
+        "pickTo": "Azim pur",
+        "image": "https://i.ibb.co/X45yMRf/train.jpg",
+        "ticketType": "Train"
+    }
+]

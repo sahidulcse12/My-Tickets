@@ -1,0 +1,26 @@
+.home-background{
+    background-image: url('../../Images//images.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 655px;
+}
+
+.picture img{
+    height: 250px;
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+.picture button{
+    background-color: gainsboro;
+    font-size: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px){
+    .home-background{
+        height:auto
+    }
+}
